@@ -1,3 +1,3 @@
 # This is second file 
 <BR>
-this is only foe sample
+this is only for  sample
